@@ -36,7 +36,7 @@ plugins:
 
 header_pages:
   - about.markdown
-  - research.markdown
+  - Research.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
