@@ -27,10 +27,16 @@ baseurl: /myweb/ # the subpath of your site, e.g. /blog
 url: https://isdko.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  isdko
 
+
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.markdown
+  - research.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
