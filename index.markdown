@@ -4,10 +4,10 @@
 
 layout: home
 ---
-  # Hi, I'm Ko.
+# Hi, I'm Ko.
  
-  My name is Ko Ishida. I am a graduate student at Astronomical Institute, Tohoku University.
+My name is Ko Ishida. I am a graduate student at Astronomical Institute, Tohoku University.
 
 
-  ### News
-  2024/06/01 add information.
+### News
+2024/06/01 add information.
