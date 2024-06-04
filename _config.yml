@@ -36,7 +36,7 @@ plugins:
 
 header_pages:
   - about.mｄ
-  - Research.md
+  - research.md
   - publication.md
   - links.md
 
